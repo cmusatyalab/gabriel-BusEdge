@@ -57,8 +57,10 @@ into different docker containers because we want to enable rapid functionality
 expansion and avoid dependency conflicts.
 
 ## Citations
+
 Please cite the following thesis if you find this useful.
-  ```
+
+  ```bibtex
   @mastersthesis{Ye-2021-128891,
   author = {Canbo Ye},
   title = {BusEdge: Efficient Live Video Analytics for Transit Buses via Edge Computing},
@@ -69,6 +71,10 @@ Please cite the following thesis if you find this useful.
   number = {CMU-RI-TR-21-46},
   }
   ```
+
+A copy of the thesis can be [accessed here][CanboYeThesis].
+
+[CanboYeThesis]: https://www.ri.cmu.edu/publications/busedge-efficient-live-video-analytics-for-transit-buses-via-edge-computing/
 
 ## License
 
